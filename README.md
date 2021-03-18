@@ -1,4 +1,4 @@
-# ROBLOX-Script-Dumps
+# ROBLOX-Script-Dump
 All the scripts I've made from vulnerabilities I've found in games.
 You can feel free to do anything with the script as long as it is bound by the license.
 
