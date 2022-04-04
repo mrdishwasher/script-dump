@@ -1,13 +1,8 @@
 --[[
 
-DEVELOPED BY BORKEDsetup
-LAST COMMIT: 2021/03/18
-
 SCRIPT TESTED WITH: Synapse X
 Most full/near full lua executors should be able to handle it.
 Make sure you have a gun out while executing and throughout the entire operation.
-
-Read the README and LICENSE for more information.
 
 ]]--
 
